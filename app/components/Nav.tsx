@@ -29,7 +29,7 @@ const Nav = () => {
   }, [isMenuOpen]);
 
   return (
-    <header className="relative flex items-center justify-center lg:justify-between px-6 mt-3 sm:mt-9 max-w-[1145px] mx-auto">
+    <header className="relative flex items-center justify-center lg:justify-between px-6 mt-3 sm:mt-9 max-w-[1160px] mx-auto">
       <div className="text-2xl font-bold">
         <Image
           src="/images/logo.png"

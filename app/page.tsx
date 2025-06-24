@@ -7,7 +7,7 @@ export default function Home() {
     <div>
       <TopNav />
       <Nav />
-      <main className="max-w-[1180px] mx-auto px-6">
+      <main className="max-w-[1210px] mx-auto px-6">
         <HeroSection />
       </main>
     </div>
