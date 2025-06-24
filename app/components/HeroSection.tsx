@@ -61,7 +61,7 @@ const HeroSection = () => {
         </div>
 
         <div className="flex flex-col space-y-8 pt-4">
-          <div className="flex flex-col w-full sm:w-3/4 md:w-1/2 space-y-3 order-2 sm:order-1">
+          <div className="flex flex-col w-full sm:w-3/4 md:w-1/2 mt-6 sm:mt-0 space-y-3 order-2 sm:order-1">
             <button className="bg-[#FC004E] cursor-pointer text-white px-8 py-3 font-figtree font-bold text-xl leading-none rounded-xl shadow-[2px_2px_10px_#22d3ee] transition-all">
               GET STARTED
             </button>
